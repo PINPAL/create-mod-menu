@@ -15,6 +15,8 @@ Create Mod Inspired Main Menu
    - [Load My Resources](https://www.curseforge.com/minecraft/mc-mods/load-my-resources-fabric)
    - [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric)
    - [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric)
+
+
 2. Download the [latest release from Github](https://github.com/PINPAL/create-mod-menu/releases/latest/download/create-main-menu.zip) for your relevant Minecraft version
 3. Navigate to your Minecraft folder (default path: `%appdata%\.minecraft`)
 4. Extract the downloaded zip file and place all the folders from inside the zip into the `.minecraft` folder
